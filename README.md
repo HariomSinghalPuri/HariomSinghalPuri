@@ -3,7 +3,7 @@ Hello !!!<br>Myself Hariom Singhal Puri .<br>Engeneering Student Of VIT .<br>Cur
 
 
 <h1 align="center">Hi 👋, I'm Hariom Singhal Puri</h1>
-<h3 align="center">A passionate Artificial Intelligence and Maschine Learning Student</h3>
+<h3 align="center">A passionate Artificial Intelligence and Machine Learning Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariomsinghalpuri&label=Profile%20views&color=0e75b6&style=flat" alt="hariomsinghalpuri" /> </p>
 
