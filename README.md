@@ -8,9 +8,9 @@ data-target="animated-image.originalImage">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariomsinghalpuri&label=Profile%20views&color=0e75b6&style=flat" alt="hariomsinghalpuri" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariomsinghalpuri" alt="hariomsinghalpuri" /></a> </p>
 
-- 🔭 I’m currently working on **Hibernate in Java**
+
+- 🔭 I’m currently working on **AI Agents**
 
 - 🌱 I’m currently learning **C++ , Java Backend**
 
@@ -20,11 +20,10 @@ data-target="animated-image.originalImage">
 
 - 📝 I regularly write articles on [Artificial Intelligence and Maschine Learning](Artificial Intelligence and Maschine Learning)
 
-- 💬 Ask me about **Python,MySql,etc**
+- 💬 Ask me about **Python,MySql,ML,DL,etc**
 
-- 📫 How to reach me **www.Singhalpuri@gmail.com**
+- 📫 How to reach me **hsinghalpuri@gmail.com**
 
-- ⚡ Fun fact **I Thing I am Polymath**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
